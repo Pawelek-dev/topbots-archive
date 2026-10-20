@@ -1,0 +1,45 @@
+## Ostatnia aktualizacja: 14-08-2026 11:41:58
+
+| Ranking | Bot | Biblioteka | Szacunkowa liczba serwerów |
+| ------- | --- | ---------- | -------------------------- |
+| 1 | StartIT | Custom Python | 484,000 |
+| 2 | AdviceBot | discord.py | 134,000 |
+| 3 | Bot Muzyczny | discord.js | 33,100 |
+| 4 | BOOMfinity | discord.js | 20,300 |
+| 5 | Muse | discord.js | 7,350 |
+| 6 | boht | discord.js | 6,390 |
+| 7 | Janusz | discord.js | 5,560 |
+| 8 | Styz | discord.js | 5,250 |
+| 9 | Somsiad | discord.py | 5,130 |
+| 10 | UMPU | discord.js | 4,980 |
+| 11 | vaobot | discord.js | 4,900 |
+| 12 | StartIT (Beta) | Custom Python | 3,400 |
+| 13 | Dzik | discord.js | 2,720 |
+| 14 | Atorin | discord.py | 2,050 |
+| 15 | Klonba | discord.js | 1,940 |
+| 16 | MurFFy | C#, Discord.NET | 1,850 |
+| 17 | Hector | ? | 1,760 |
+| 18 | RadiOOMbo BOT | discord.js | 1,740 |
+| 19 | Skręcior | JDA | 1,600 |
+| 20 | Shiroe | discord.js | 1,510 |
+| 21 | Pegasus | ? | 1,510 |
+| 22 | Bot Muzyczny 2 | discord.js | 1,300 |
+| 23 | CENZURA | discord.py fork | 1,260 |
+| 24 | popebot | discord.js | 1,210 |
+| 25 | alienMusic | discordx | 1,160 |
+| 26 | MaxHard BOT | JDA | 1,050 |
+| 27 | Furxenity | discord.js | 889 |
+| 28 | Miyū | discord.js | 618 |
+| 29 | Edward | discord.js | 471 |
+| 30 | YogBOT | ? | 454 |
+| 31 | MightyBot | discord.js | 415 |
+| 32 | AmpersandBot | discord.js | 365 |
+| 33 | Elif | ? | 297 |
+| 34 | StartIT Clicker | discord.py | 294 |
+| 35 | StartIT Tags | Custom Python | 271 |
+| 36 | Rizzlerek | ? | 112 |
+| 37 | ByteMate | Serenity | 109 |
+| 38 | BOTTER | discord.py | 102 |
+| 39 | Skyndalex | ? | 80 |
+| 40 | Adraze | discord.js | 61 |
+| 41 | PaulCLI | Custom Python | 60 |
