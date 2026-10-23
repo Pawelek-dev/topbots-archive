@@ -1,0 +1,40 @@
+## Ostatnia aktualizacja: 28-05-2025 11:14:45
+
+| Ranking | Bot | Biblioteka | Szacunkowa liczba serwerów |
+| ------- | --- | ---------- | -------------------------- |
+| 1 | StartIT | Custom Python | 402,000 |
+| 2 | AdviceBot | discord.py | 118,000 |
+| 3 | Bot Muzyczny | discord.js | 32,400 |
+| 4 | BOOMfinity | discord.js | 20,600 |
+| 5 | boht | discord.js | 5,830 |
+| 6 | Janusz | discord.js | 5,260 |
+| 7 | Somsiad | discord.py | 5,170 |
+| 8 | UMPU | discord.js | 5,110 |
+| 9 | vaobot | discord.js | 5,050 |
+| 10 | StartIT (Beta) | Custom Python | 3,570 |
+| 11 | Styz | discord.js | 3,380 |
+| 12 | Atorin | discord.py | 2,110 |
+| 13 | Klonba | discord.js | 1,970 |
+| 14 | Muse | discord.js | 1,830 |
+| 15 | Skręcior | JDA | 1,620 |
+| 16 | Bot Muzyczny 2 | discord.js | 1,370 |
+| 17 | alienMusic | discordx | 1,230 |
+| 18 | MaxHard BOT | JDA | 1,150 |
+| 19 | RadiOOMbo BOT | discord.js | 1,070 |
+| 20 | popebot | discord.js | 1,060 |
+| 21 | Furxenity | discord.js | 980 |
+| 22 | Shiroe | discord.js | 869 |
+| 23 | Pegasus | ? | 788 |
+| 24 | MurFFy | C#, Discord.NET | 503 |
+| 25 | Dzik | discord.js | 503 |
+| 26 | Edward | discord.js | 470 |
+| 27 | Daphner | discord.js | 417 |
+| 28 | CENZURA | discord.py fork | 408 |
+| 29 | MightyBot | discord.js | 341 |
+| 30 | AmpersandBot | discord.js | 327 |
+| 31 | StartIT Clicker | discord.py | 304 |
+| 32 | Elif | ? | 193 |
+| 33 | Globally | discord.js | 85 |
+| 34 | BOTTER | discord.py | 78 |
+| 35 | PaulCLI | Custom Python | 37 |
+| 36 | Universe | discord.js | 3 |
