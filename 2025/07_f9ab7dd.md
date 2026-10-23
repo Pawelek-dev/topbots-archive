@@ -1,0 +1,42 @@
+## Ostatnia aktualizacja: 31-07-2025 11:40:40
+
+| Ranking | Bot | Biblioteka | Szacunkowa liczba serwerów |
+| ------- | --- | ---------- | -------------------------- |
+| 1 | StartIT | Custom Python | 425,000 |
+| 2 | AdviceBot | discord.py | 123,000 |
+| 3 | Bot Muzyczny | discord.js | 33,000 |
+| 4 | BOOMfinity | discord.js | 20,500 |
+| 5 | boht | discord.js | 5,910 |
+| 6 | Janusz | discord.js | 5,330 |
+| 7 | Somsiad | discord.py | 5,170 |
+| 8 | UMPU | discord.js | 5,160 |
+| 9 | vaobot | discord.js | 5,020 |
+| 10 | Styz | discord.js | 3,580 |
+| 11 | StartIT (Beta) | Custom Python | 3,550 |
+| 12 | Muse | discord.js | 2,260 |
+| 13 | Atorin | discord.py | 2,100 |
+| 14 | Klonba | discord.js | 1,960 |
+| 15 | Skręcior | JDA | 1,620 |
+| 16 | Bot Muzyczny 2 | discord.js | 1,350 |
+| 17 | alienMusic | discordx | 1,200 |
+| 18 | RadiOOMbo BOT | discord.js | 1,150 |
+| 19 | MaxHard BOT | JDA | 1,120 |
+| 20 | popebot | discord.js | 1,080 |
+| 21 | Shiroe | discord.js | 935 |
+| 22 | Furxenity | discord.js | 925 |
+| 23 | Dzik | discord.js | 914 |
+| 24 | Pegasus | ? | 883 |
+| 25 | CENZURA | discord.py fork | 771 |
+| 26 | MurFFy | C#, Discord.NET | 515 |
+| 27 | Edward | discord.js | 472 |
+| 28 | Daphner | discord.js | 423 |
+| 29 | MightyBot | discord.js | 399 |
+| 30 | AmpersandBot | discord.js | 328 |
+| 31 | StartIT Clicker | discord.py | 303 |
+| 32 | Elif | ? | 231 |
+| 33 | StartIT Tags | Custom Python | 164 |
+| 34 | BOTTER | discord.py | 79 |
+| 35 | Ptaszunio | discord.js | 78 |
+| 36 | PaulCLI | Custom Python | 37 |
+| 37 | Adraze | discord.js | 35 |
+| 38 | Universe | discord.js | 1 |
